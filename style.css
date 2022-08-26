@@ -1,0 +1,72 @@
+Body{
+    background: #f3f3f3;
+    font-family: 'Roboto', sans-serif;
+}
+
+.caixa-pagina{
+    width: 375px;
+    height: 667px;
+    position: relative;
+}
+.caixa-topo{
+    width: 375px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 26px;
+    background-color: #FFFFFF;
+}
+.caixa-topo img{
+    margin-left: 24px;
+    width: 75px;
+    height: 53px;
+}
+.caixa-topo ion-icon{
+    margin-right: 24px;
+    width: 42px;
+    height: 30px;
+}
+.caixa-chat{
+    background-color: #F3F3F3;
+    width: 375px;
+    height: 500px;
+    overflow: hidden;
+}
+.caixa-baixo{
+    width: 375px;
+    height: 80px;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFFFFF; 
+    margin-top: 24px;
+}
+
+.caixa-baixo ion-icon{
+    margin-right: 24px;
+    width: 26px;
+    height: 26px;
+}
+.from{
+    font-weight: bold;
+    font-size: 30px;
+}
+.entrada-saida{
+    background-color: #DCDCDC;
+}
+.reservado{
+    background-color: #FFDEDE;
+}
+.mensagens{
+    background-color: #fFFFFF;
+    width: 375px;
+
+}
+li{
+    background: pink;
+    Width:375px;
+    Height:40px;
+}
